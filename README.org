@@ -1,0 +1,12 @@
+* cl-lc
+
+CL-LC provides list comprehensions (and other “comprehensions”, like
+dictionary comprehensions) using the technique presented in Mario
+Latendresse, “Simple and Efficient Compilation of List Comprehensions
+in Common Lisp.”
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/ruricolist/cl-lc.git |
+| commit  | 42002ce                                     |
+| systems | cl-lc                                       |
+|---------+---------------------------------------------|
