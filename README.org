@@ -7,6 +7,6 @@ in Common Lisp.”
 
 |---------+---------------------------------------------|
 | source  | git:https://github.com/ruricolist/cl-lc.git |
-| commit  | 42002ce                                     |
+| commit  | 1f8f334                                     |
 | systems | cl-lc                                       |
 |---------+---------------------------------------------|
